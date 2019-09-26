@@ -39,11 +39,11 @@ adding code
 
     x = sqr(w*n)/r
 
-|6|  |
-|--|--|
-|  |  |
+|6| x how to extend? |
+|--|- what?-|
+|  | the thing |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU0NTgyNDddfQ==
+eyJoaXN0b3J5IjpbLTk0NTU3OTc1MV19
 -->
